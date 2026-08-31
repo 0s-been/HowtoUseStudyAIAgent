@@ -1,1 +1,2 @@
-# HowtoUseStudyAIAgent
+고급프로그래밍기법 강의 학습용 레포지토리
+AIAgent를 통한 코드 작업 연습이 주 내용입니다.
